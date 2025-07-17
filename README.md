@@ -1,4 +1,4 @@
-# 📰 News Weaver
+# 📰 News Weaver MultiAgent
 
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Framework](https://img.shields.io/badge/Framework-FastAPI%20%7C%20Streamlit-green)
